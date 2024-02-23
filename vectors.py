@@ -14,7 +14,7 @@ def fetch_text_from_wikipedia(page_title):
         return None 
     
     
-page_title = ""
+page_title = "Cats"
 
 text_data = fetch_text_from_wikipedia(page_title)
 if text_data:
