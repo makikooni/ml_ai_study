@@ -7,7 +7,7 @@ from IPython.display import Audio
  
 lang = 'en'
  
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
  
 tts = gTTS('hello lol!')
